@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # How to display word-wrapped or clipped text in the ASPxGridView (runtime example)
 
 
