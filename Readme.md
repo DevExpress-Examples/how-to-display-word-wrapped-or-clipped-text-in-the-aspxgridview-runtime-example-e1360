@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to display word-wrapped or clipped text in the ASPxGridView (runtime example)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1360)**
+**[[Run Online]](https://codecentral.devexpress.com/e1360/)**
 <!-- run online end -->
 
 
